@@ -4,7 +4,7 @@
 
 MovCorn is a Movie Review website. This was a project of our 3rd Year 1st Semester Software Development Lab.
 
-It was built using -
+It was built using 
 • HTML
 • CSS
 • JavaScript
