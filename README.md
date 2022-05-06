@@ -1,6 +1,6 @@
 # MovCorn
 
-Website Link: https://akc23.github.io/MovCorn/
+## Website Link: https://akc23.github.io/MovCorn/
 
 MovCorn is a Movie Review website. This was a project of our 3rd Year 1st Semester Software Development Lab.
 
@@ -16,4 +16,4 @@ External libraries and frameworks
 • jQuery
 
 
-** Click the link to view our website. Blog and Ticket option won't work as it was made with PHP.
+## Click the link to view our website. Blog and Ticket option won't work as it was made with PHP.
