@@ -4,7 +4,7 @@ Website Link: https://akc23.github.io/MovCorn/
 
 MovCorn is a Movie Review website. This was a project of our 3rd Year 1st Semester Software Development Lab.
 
-Built using
+It was built using -
 • HTML
 • CSS
 • JavaScript
