@@ -12,7 +12,7 @@ It was built using
 • SQL database
 
 External libraries and frameworks
-• Bootstrap V5
+• Bootstrap Version 4.6
 • jQuery
 
 
