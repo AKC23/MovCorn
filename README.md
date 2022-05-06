@@ -16,7 +16,7 @@ External libraries and frameworks
 • jQuery
 
 
-### *Click the link to view our website. 'Blog' and 'Ticket' option won't work as it was made with PHP. See those option below in the images
+### *Click the link to view our website. 'Blog' and 'Ticket' option won't work as it was made with PHP. See those option below in the images.
 
 ### Sample pictures of MovCorn is given below.
 
