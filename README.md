@@ -16,4 +16,4 @@ External libraries and frameworks
 • jQuery
 
 
-## Click the link to view our website. Blog and Ticket option won't work as it was made with PHP.
+### *Click the link to view our website. 'Blog' and 'Ticket' option won't work as it was made with PHP.
