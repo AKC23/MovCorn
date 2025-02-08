@@ -5,7 +5,12 @@
 ## 🌐 Website Link: https://akc23.github.io/MovCorn/
 
 ## 📌 About the Project  
-**MovCorn** is an interactive movie review platform that allows users to browse, review, and rate movies. The website provides a seamless experience with a user-friendly interface and dynamic features for movie enthusiasts.  
+**MovCorn** is an interactive movie review platform that allows users to:  
+- Browse, review, and rate movies  
+- Buy movie tickets  
+- Write blogs and share thoughts on films  
+- Search for favourite genres and actors  
+- Engage with a user-friendly interface for a seamless experience  
 
 ## 🛠️ Technologies Used  
 ### Frontend  
