@@ -1,22 +1,28 @@
 # MovCorn
 
-## Website Link: https://akc23.github.io/MovCorn/
+**A Dynamic Movie Review Website**  
 
-MovCorn is a Movie Review website. This was a project of our 3rd Year 1st Semester Software Development Lab.
+## 🌐 Website Link: https://akc23.github.io/MovCorn/
 
-It was built using 
-• HTML
-• CSS
-• JavaScript
-• PHP
-• SQL database
+## 📌 About the Project  
+**MovCorn** is an interactive movie review platform that allows users to browse, review, and rate movies. The website provides a seamless experience with a user-friendly interface and dynamic features for movie enthusiasts.  
 
-External libraries and frameworks
-• Bootstrap Version 4.6
-• jQuery
+## 🛠️ Technologies Used  
+### Frontend  
+- HTML  
+- CSS  
+- JavaScript  
+
+### Backend  
+- PHP  
+- SQL (Database)  
+
+## 📚 External Libraries & Frameworks  
+- **Bootstrap v4.6** – For responsive design  
+- **jQuery** – For interactive elements  
 
 
-### *Click the link to view our website. 'Blog' and 'Ticket' option won't work as it was made with PHP. See those option below in the images.
+N.B. Click the link to view our website. The 'Blog' and 'Ticket' options won't work as it was made with PHP. See those options below in the images.
 
 ### Sample pictures of MovCorn is given below.
 
