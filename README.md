@@ -1,6 +1,4 @@
-# MovCorn
-
-**A Dynamic Movie Review Website**  
+# MovCorn: Responsive Movie Review Website
 
 ## 🌐 Website Link: https://akc23.github.io/MovCorn/
 
